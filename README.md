@@ -2,3 +2,5 @@
 A little html maze game for 61 Children's Day.
 # demo.gif
 ![image](https://github.com/xiyin66666/happy_children-s_day_minigame/blob/main/demo.gif)
+# html link by netlify
+https://quiet-bubblegum-7a5493.netlify.app/
